@@ -2,7 +2,7 @@
 
 **Computing Undergraduate @ Imperial College London**
 
-I am driven by curiosity and a deep love for mathematics, computer science, and complex problem-solving. While much of my recent work focuses on high-performance systems architecture—such as engineering lock-free C++ ray tracers, ARM emulators, and stateful AI daemons—my core focus always returns to efficiency and optimisation. 
+I am driven by curiosity and a deep love for mathematics, computer science, and complex problem-solving. 
 
 I am highly passionate about Quantitative Development, Quantitative Research, and Machine Learning. I thrive on applying rigorous mathematical frameworks to real-world environments, from building stochastic Limit Order Book simulations to developing event-driven arbitrage engines and predictive ML models.
 
